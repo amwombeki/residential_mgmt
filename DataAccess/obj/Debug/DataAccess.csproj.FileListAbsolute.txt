@@ -1,0 +1,5 @@
+D:\SELLnBUY\Tenants\DataAccess\bin\Debug\DataAccess.dll
+D:\SELLnBUY\Tenants\DataAccess\bin\Debug\DataAccess.pdb
+D:\SELLnBUY\Tenants\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\SELLnBUY\Tenants\DataAccess\obj\Debug\DataAccess.dll
+D:\SELLnBUY\Tenants\DataAccess\obj\Debug\DataAccess.pdb
